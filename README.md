@@ -17,7 +17,7 @@
 ### Ejecucion del programa
 
 ```
-npm run dev
+npm start
 json-server db.json -p 4000
 ```
 

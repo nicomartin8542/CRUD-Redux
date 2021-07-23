@@ -1,5 +1,7 @@
 # CRUD PARA PRODUCTOS
 
+![Alt text](/img/imagen_readme.jpg)
+
 ## Descripcion
 
 - Aplicacion hecha en React con Redux para crear, modificar y editar productos.
